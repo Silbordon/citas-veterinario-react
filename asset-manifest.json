@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/citas-veterinario-react/static/css/main.c2a19485.chunk.css",
+    "main.js": "/citas-veterinario-react/static/js/main.5458725e.chunk.js",
+    "main.js.map": "/citas-veterinario-react/static/js/main.5458725e.chunk.js.map",
+    "runtime-main.js": "/citas-veterinario-react/static/js/runtime-main.cbc685e4.js",
+    "runtime-main.js.map": "/citas-veterinario-react/static/js/runtime-main.cbc685e4.js.map",
+    "static/js/2.4d9d7fef.chunk.js": "/citas-veterinario-react/static/js/2.4d9d7fef.chunk.js",
+    "static/js/2.4d9d7fef.chunk.js.map": "/citas-veterinario-react/static/js/2.4d9d7fef.chunk.js.map",
+    "static/js/3.bc88f447.chunk.js": "/citas-veterinario-react/static/js/3.bc88f447.chunk.js",
+    "static/js/3.bc88f447.chunk.js.map": "/citas-veterinario-react/static/js/3.bc88f447.chunk.js.map",
+    "index.html": "/citas-veterinario-react/index.html",
+    "static/css/main.c2a19485.chunk.css.map": "/citas-veterinario-react/static/css/main.c2a19485.chunk.css.map",
+    "static/js/2.4d9d7fef.chunk.js.LICENSE.txt": "/citas-veterinario-react/static/js/2.4d9d7fef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbc685e4.js",
+    "static/js/2.4d9d7fef.chunk.js",
+    "static/css/main.c2a19485.chunk.css",
+    "static/js/main.5458725e.chunk.js"
+  ]
+}
